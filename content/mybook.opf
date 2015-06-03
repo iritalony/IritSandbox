@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
   <metadata>
-    <dc:rights>Public domain</dc:rights>
+    
     <dc:creator opf:file-as="Unknown, Author">Unknown Author</dc:creator>
-    <dc:title>My Untitled Book</dc:title>
+    <dc:title>Sandbox for play and learning</dc:title>
     <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
     <dc:date opf:event="publication">2013-10-08</dc:date>
-  </metadata>
+      <dc:description>Testing the editor by using the editor.</dc:description>
+    <dc:rights>Creative Commons Attribution - CC-BY</dc:rights>
+    <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:property="lrmi:useRightsUrl">http://creativecommons.org/licenses/by/3.0/</meta>
+    <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:properties="dcterms:modified">2015-6-3</meta>
+</metadata>
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
