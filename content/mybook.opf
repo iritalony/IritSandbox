@@ -14,5 +14,5 @@
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
   <item href="module-2-83d2ab27-a406-4a44-806c-846f559ed345.html" id="module-2-83d2ab27-a406-4a44-806c-846f559ed345.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
-  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module-2-83d2ab27-a406-4a44-806c-846f559ed345.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module-2-83d2ab27-a406-4a44-806c-846f559ed345.html"></itemref></spine>
 </package>
